@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"tips pack 1","desc":"In recent years, the gaming industry has witnessed a significant surge in the popularity of role-playing games (RPGs). Within the RPG genre, the emergence of Black RP Mods has sparked considerable interest and brought about important discussions regarding representation, inclusivity, and diversity in gaming. ","photo":"https://iili.io/HUCfyut.jpg"},
+  {"title":"helper mod 2","desc":"In recent years, the gaming industry has witnessed a significant surge in the popularity of role-playing games (RPGs). Within the RPG genre, the emergence of Black RP Mods has sparked considerable interest and brought about important discussions regarding representation, inclusivity, and diversity in gaming. ","photo":"https://iili.io/HUCfp9I.jpg"},
+  {"title":"advice pack 3","desc":"Black RP Mods, short for Black Role-Playing Modifications, are player-created modifications or add-ons for existing video games that aim to enhance the representation of Black characters and cultures within the game world. ","photo":"https://iili.io/HUCfb8N.jpg"},
+  {"title":"how to use this app 4","desc":"These mods may include new character models, dialogue options, storylines, or cultural references that reflect the experiences and narratives of Black communities.","photo":"https://iili.io/HUCqHtn.jpg"},
+  {"title":"advance mod 5","desc":"Black RP Mods can be seen as a response to the historical underrepresentation and misrepresentation of Black characters in mainstream video games. Many popular games have predominantly featured white protagonists, ","photo":"https://iili.io/HUCq9wX.webp"},
+  {"title":"tips pack 6","desc":", perpetuating stereotypes and marginalizing diverse racial and ethnic backgrounds. Black RP Mods seek to challenge these norms and provide players with more inclusive and representative gaming experiences.","photo":"https://iili.io/HUCqdns.webp"},
+  {"title":"helper mod 7","desc":"One of the primary contributions of Black RP Mods is their ability to provide players with a sense of representation and belonging. By introducing Black characters and storylines that resonate with Black players, these mods create a more inclusive gaming environment. ","photo":"https://iili.io/HUCq3Pf.jpg"},
+  {"title":"advice pack 8","desc":"Seeing oneself reflected in the virtual world can foster a stronger connection to the game and enhance the overall gaming experience.","photo":"https://iili.io/HUCq2MG.webp"}
    ]
  
 }
